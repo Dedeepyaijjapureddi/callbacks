@@ -9,3 +9,5 @@ app.get('/get-users', (req,res) => {
 app.listen(7001,()=>{
     console.log("server running at port 7001")
 });
+
+console.log("hello")
